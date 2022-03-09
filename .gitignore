@@ -1,3 +1,6 @@
+.idea/
+datasets/
+
 .git-crypt
 .DS_Store
 bin/
